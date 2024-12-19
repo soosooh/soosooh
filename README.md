@@ -44,6 +44,10 @@
 
 <br>
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soosooh&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soosooh&langs_count=10&layout=compact&theme=dark)](https://github.com/soosooh/soosooh)-->
+
 <!--<div align="center">
 
 ![Soosooh's GitHub stats](https://github-readme-stats.vercel.app/api?username=soosooh&show_icons=true&theme=radical)
